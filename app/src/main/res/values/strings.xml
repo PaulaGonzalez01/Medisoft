@@ -1,0 +1,18 @@
+<resources>
+    <!-- Strings used for fragments for navigation -->
+    <string name="login_fragment_label">Login Fragment</string>
+    <string name="home_fragment_label">Home Fragment</string>
+
+    <string name="app_name">MediSoft</string>
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="identification_text">identificación</string>
+    <string name="password_text">contraseña</string>
+    <string name="login_text_button">Ingresar</string>
+    <string name="forgot_text">¿Has olvidado la contraseña?</string>
+    <string name="click_here_link"><u>Click aquí</u></string>
+    <string name="no_yet_acc_text">¿Aún no tienes cuenta?</string>
+    <string name="register_here_text_button">Regístrate aquí</string>
+    <string name="user_name">Emily</string>
+    <string name="grid_fragment_label">Grid Fragment</string>
+
+</resources>

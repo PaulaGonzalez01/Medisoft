@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="big_button_width">279dp</dimen>
+    <dimen name="big_button_height">52dp</dimen>
+    <dimen name="eye_blocked_witdth">25dp</dimen>
+    <dimen name="spot_width">418dp</dimen>
+    <dimen name="spot_height">140dp</dimen>
+    <dimen name="profile_radious">90dp</dimen>
+</resources>
